@@ -3,7 +3,8 @@
 I'm Ying Keat! This is the place where I work on my projects.
 
 - 🏫 Currently studying Computer Science in Singapore Management University
-- 🌱 I'm currently learning Typescript
+- 🌱 I'm currently learning about Security in Windows Active Directory (AD)
+- ☁️  Studying for cloud-related certifications
 - 🚩 Interest in Capture the Flag competitions and Cybersecurity
 - 📘 Check out my [CTF writeups](https://ctf-writeups.0xf00dface.com/)!
 
