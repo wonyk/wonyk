@@ -3,8 +3,8 @@
 I'm Ying Keat! This is the place where I work on my projects.
 
 - 🏫 Currently studying Computer Science in Singapore Management University
-- 🌱 I'm currently learning about Security in Windows Active Directory (AD)
-- ☁️  Studying for cloud-related certifications
+- 🌱 I'm currently learning about developing in Golang and Rust.
+- ☁️  Studying for PenTesting related certifications (currently OSCP)
 - 🚩 Interest in Capture the Flag competitions and Cybersecurity
 - 📘 Check out my [CTF writeups](https://ctf-writeups.0xf00dface.com/)!
 
